@@ -18,7 +18,7 @@ Juwelier::Tasks.new do |gem|
   gem.homepage = "http://github.com/AndyObtiva/glimmer-cp-messageboxpanel"
   gem.license = "MIT"
   gem.summary = %Q{Message Box Panel - Glimmer Custom Shape}
-  gem.description = %Q{Message Box Panel - Glimmer DSL for SWT Custom Shape - message_box_panel is a graphical alternative to the native SWT message_box}
+  gem.description = %Q{Message Box Panel - Glimmer DSL for SWT Custom Shape - message_box_panel is a customizable graphical alternative to the native SWT message_box}
   gem.email = "andy.am@gmail.com"
   gem.authors = ["Andy Maleh"]
 
